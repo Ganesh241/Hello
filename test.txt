@@ -1,0 +1,13 @@
+ Volume in drive C is System
+ Volume Serial Number is 84B9-A8FF
+
+ Directory of C:\Users\z004za2z\Desktop\CppProject
+
+09/09/2024  02:54 PM    <DIR>          .
+09/09/2024  02:54 PM    <DIR>          ..
+09/09/2024  10:45 AM               899 Hello.class
+09/09/2024  10:38 AM               207 Hello.java
+09/09/2024  02:47 PM               461 index.html
+09/09/2024  02:54 PM                 0 test.txt
+               4 File(s)          1,567 bytes
+               2 Dir(s)  149,948,915,712 bytes free
